@@ -17,7 +17,6 @@ session_start();
         <h3>Pide la comida más sana a domicilio</h3>
         <form action="resultado.php" method="post">
             <div id="contenedor">
-                <!-- Aquí se generará el contenido dinámicamente -->
                 <div>
                     <img src="media/hamburguesa.png" alt="burger"><br>
                     <input type="number" min="0" name="cantidad" id="cantidad" value="0">
